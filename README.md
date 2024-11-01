@@ -8,7 +8,7 @@
   - LinkedIn: [Ajay Kumar Reddy Satti](https://www.linkedin.com/in/ajay7373/)  
   - GitHub: [AJAYKUMARREDDY7373](https://github.com/AJAYKUMARREDDY7373)  
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: When I'm not coding, I'm probably reading up on **space tech or trying out a new Linux distro**.
+- ⚡ Fun fact: When I'm not coding, I'm probably reading up on **space tech or  Reading Business Case Studies**.
 
 ---
 

@@ -9,9 +9,13 @@
 
 
 --📫 How to reach me:
-    Email: ajaykumarreddy7373@gmail.com
-    LinkedIn: Ajay Kumar Reddy Satti
-    GitHub: AJAYKUMARREDDY7373
+   Email: ajaykumarreddy7373@gmail.com
+
+   
+  LinkedIn: Ajay Kumar Reddy Satti
+  
+ 
+  GitHub: AJAYKUMARREDDY7373
 
 
 --😄 Pronouns: He/Him

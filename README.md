@@ -12,7 +12,8 @@
    Email: ajaykumarreddy7373@gmail.com
 
    
-  LinkedIn: Ajay Kumar Reddy Satti
+  LinkedIn: www.linkedin.com/in/ajay7373
+
   
  
   GitHub: AJAYKUMARREDDY7373

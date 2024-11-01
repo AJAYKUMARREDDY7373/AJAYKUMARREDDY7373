@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AJAYKUMARREDDY7373
+# 👋 Hi, I’m @AJAYKUMARREDDY
 
 - 👀 I’m interested in **Cloud Computing, DevOps, and AI/ML technologies**. I enjoy building scalable, secure solutions and continuously improving my skills in the latest technologies.
 - 🌱 I’m currently learning **AWS Solutions Architect (SAA) certification content, Docker, Kubernetes (K8s), and advanced Python scripting**.

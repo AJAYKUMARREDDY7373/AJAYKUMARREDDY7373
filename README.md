@@ -3,7 +3,6 @@
 🌱 I’m currently learning AWS Solutions Architect (SAA) certification content, Docker, Kubernetes (K8s), and advanced Python scripting.
 💞️ I’m looking to collaborate on projects that involve cloud architecture, automation, and containerization. Open to innovative ideas in DevOps and cloud-native development.
 📫 How to reach me:
-
 Email: ajaykumarreddy7373@gmail.com
 LinkedIn: Ajay Kumar Reddy Satti
 GitHub: AJAYKUMARREDDY7373

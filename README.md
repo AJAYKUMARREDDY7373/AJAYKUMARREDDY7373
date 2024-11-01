@@ -18,8 +18,7 @@
 
   
  
-  GitHub: AJAYKUMARREDDY7373
-
+  GitHub: https://github.com/AJAYKUMARREDDY7373
 
 --😄 Pronouns: He/Him
 
